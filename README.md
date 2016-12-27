@@ -43,8 +43,48 @@ A curated list of amazing Machine Learning Git Repos, Articles, Videos etc.,
 
 - Machine Learning library for Rust https://crates.io/crates/rusty-machine [AtheMathmo/rusty-machine](https://github.com/AtheMathmo/rusty-machine)
 
+- A machine learning package built for humans. http://airbnb.github.io/aerosolve [airbnb/aerosolve](https://github.com/airbnb/aerosolve)
 
-## Tutorials
+- The Shogun Machine Learning Toolbox (Source Code) http://www.shogun-toolbox.org [shogun-toolbox/shogun](https://github.com/shogun-toolbox/shogun)
+
+- Learn machine learning for free, because free is better than not-free. http://nixonite.github.io/open-source-machine-learning-degree [Nixonite/open-source-machine-learning-degree](https://github.com/Nixonite/open-source-machine-learning-degree)
+
+- My machine learning algortihms implementations. Currently decision tree, and linear/logistic regression.
+[ignl/MachineLearning](https://github.com/ignl/MachineLearning)
+
+- Code accompanying the book "Machine Learning for Hackers" http://shop.oreilly.com/product/0636920018483.do [johnmyleswhite/ML_for_Hackers](https://github.com/johnmyleswhite/ML_for_Hackers)
+
+- Thousands of everyday sounds, organized using machine learning. https://aiexperiments.withgoogle.com/drum-machine [googlecreativelab/aiexperiments-drum-machine](https://github.com/googlecreativelab/aiexperiments-drum-machine)
+
+- Minimal and clean examples of machine learning algorithms [rushter/MLAlgorithms](https://github.com/rushter/MLAlgorithms)
+
+- Optimizers for machine learning [BRML/climin](https://github.com/BRML/climin)
+
+- h2o = fast statistical, machine learning & math runtime for bigdata [h2oai/h2o-2](https://github.com/h2oai/h2o-2)
+
+- A data pipeline framework for machine learning [mila-udem/fuel](https://github.com/mila-udem/fuel)
+
+- Common data analysis and machine learning tasks using python [ujjwalkarn/DataSciencePython](https://github.com/ujjwalkarn/DataSciencePython)
+
+- Machine Learning / Natural Language Processing / Information Retrieval http://shuyo.wordpress.com [shuyo/iir](https://github.com/shuyo/iir)
+
+- Learning Machine Learning with TensorFlow [golbin/TensorFlow-ML-Exercises](https://github.com/golbin/TensorFlow-ML-Exercises)
+
+- Tutorial on scikit-learn and IPython for parallel machine learning [ogrisel/parallel_ml_tutorial](https://github.com/ogrisel/parallel_ml_tutorial)
+
+- Sentiment analysis with Machine Learning [malavbhavsar/sentimentalizer](https://github.com/malavbhavsar/sentimentalizer)
+
+- Lime: Explaining the predictions of any machine learning classifier [marcotcr/lime](https://github.com/marcotcr/lime)
+
+- Machine learning algorithms implemented by Python [carefree0910/MachineLearning](https://github.com/carefree0910/MachineLearning)
+
+- Machine Learning Practical course repository http://www.inf.ed.ac.uk/teaching/courses/mlp [CSTR-Edinburgh/mlpractical](https://github.com/CSTR-Edinburgh/mlpractical)
+
+- Machine Learning Time-Series Platform [cesium-ml/cesium](https://github.com/cesium-ml/cesium)
+
+- PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray. http://prediction.io [apache/incubator-predictionio](https://github.com/apache/incubator-predictionio)
+
+## Tutorials/Notes
 
 - Content for Udacity's Machine Learning curriculum [udacity/machine-learning](https://github.com/udacity/machine-learning)
 
@@ -52,15 +92,26 @@ A curated list of amazing Machine Learning Git Repos, Articles, Videos etc.,
 
 - Source Code for the book: Machine Learning in Action published by Manning http://manning.com/pharrington [pbharrin/machinelearninginaction](https://github.com/pbharrin/machinelearninginaction)
 
+- Project solutions to Udacity's Machine Learning Nanodegree [Edderic/udacity-machine-learning-nanodegree](https://github.com/Edderic/udacity-machine-learning-nanodegree)
+
+- Machine learning/artificial intelligence notes [frnsys/ai_notes](https://github.com/frnsys/ai_notes)
 
 
-## Data Analysis
+
+## Data Science & Analysis
 
 - Content for Udacity's Data Analyst curriculum [udacity/data-analyst](https://github.com/udacity/data-analyst)
+
+- Machine Learning Tool Guides and Theory Notes [jxieeducation/DIY-Data-Science](https://github.com/jxieeducation/DIY-Data-Science)
+
 
 ## Link to other Lists of Content
 
 - A curated list of awesome Machine Learning frameworks, libraries and software [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#clojure-data-analysis)
 
 - Machine learning and deep learning tutorials, articles and other resources http://ujjwalkarn.github.io/Machine-Learning-Tutorials [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+
+- :octocat: Machine Learning for Cyber Security [jivoi/awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity)
+
+-
 
