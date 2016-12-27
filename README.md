@@ -84,6 +84,67 @@ A curated list of amazing Machine Learning Git Repos, Articles, Videos etc.,
 
 - PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray. http://prediction.io [apache/incubator-predictionio](https://github.com/apache/incubator-predictionio)
 
+- ChatterBot is a machine learning, conversational dialog engine for creating chat bots. http://chatterbot.readthedocs.io [gunthercox/ChatterBot](https://github.com/gunthercox/ChatterBot)
+
+- Predict Stocks Market Machine Learning [FraPochetti/StocksProject](https://github.com/FraPochetti/StocksProject)
+
+- Visualize streaming machine learning in Spark [freeman-lab/spark-ml-streaming](https://github.com/freeman-lab/spark-ml-streaming)
+
+- Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Theano http://pymc-devs.github.io/pymc3 [pymc-devs/pymc3](https://github.com/pymc-devs/pymc3)
+
+- Simplifying robust end-to-end machine learning on Apache Spark. http://keystone-ml.org [amplab/keystone](https://github.com/amplab/keystone)
+
+- Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization. http://www.clips.ua.ac.be/pages/pattern [clips/pattern](https://github.com/clips/pattern)
+
+- world_cup_learning : Just because I wanted to win a bet, some machine learning about the fifa world cup :) [fisadev/world_cup_learning](https://github.com/fisadev/world_cup_learning)
+
+- Source code for the "Learning scikit-learn: Machine Learning in Python" [gmonce/scikit-learn-book](https://github.com/gmonce/scikit-learn-book)
+
+- A scalable machine learning library on Apache Spark [linkedin/photon-ml](https://github.com/linkedin/photon-ml)
+
+- Code for testing machine learning algorithms on firefox browsing data for various user personalization projects [matthewruttley/firefox-machine-learning](https://github.com/matthewruttley/firefox-machine-learning)
+
+- Numenta Platform for Intelligent Computing: a brain-inspired machine intelligence platform, and biologically accurate neural network based on cortical learning algorithms. http://numenta.org [numenta/nupic](https://github.com/numenta/nupic)
+
+- Oryx 2: Lambda architecture on Apache Spark, Apache Kafka for real-time large scale machine learning http://oryx.io [OryxProject/oryx](https://github.com/OryxProject/oryx)
+
+- Open Source Fast Scalable Machine Learning API For Smarter Applications (Deep Learning, Gradient Boosting, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA...) http://h2o.ai [h2oai/h2o-3](https://github.com/h2oai/h2o-3)
+
+- Daily Stock Forecasts using Machine Learning (SVM regression) http://daily-stock-forecast.com [DMTSource/daily-stock-forecast](https://github.com/DMTSource/daily-stock-forecast)
+
+- Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc. http://bulletphysics.org [bulletphysics/bullet3](https://github.com/bulletphysics/bullet3)
+
+- Machine learning contest - October 2016 TLE [seg/2016-ml-contest](https://github.com/seg/2016-ml-contest)
+
+- Apache Spark & Python (pySpark) tutorials for Big Data Analysis and Machine Learning as IPython / Jupyter notebooks http://jadianes.github.io/spark-py-notebooks [jadianes/spark-py-notebooks](https://github.com/jadianes/spark-py-notebooks)
+
+- A machine learning approach to classify songs by mood.[rasbt/musicmood](https://github.com/rasbt/musicmood)
+
+- A machine learning model that predicts facial attractiveness from images [avisingh599/face-rating](https://github.com/avisingh599/face-rating)
+
+- Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations. http://www.tensorflowbook.com [BinRoot/TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book)
+
+- Uses WiFi signals 📶 and machine learning to predict where you are [kootenpv/whereami](https://github.com/kootenpv/whereami)
+
+- Playing around with machine learning and nodejs [mattiasliljenzin/machine-learning-fun-with-node](https://github.com/mattiasliljenzin/machine-learning-fun-with-node)
+
+- Implementing machine learning algorithms from scratch. [madhug-nadig/Machine-Learning-Algorithms-from-Scratch](https://github.com/madhug-nadig/Machine-Learning-Algorithms-from-Scratch)
+
+- Machine learning code to generate a poker playing AI, plus a graphical interface for python. [ajw278/pokerpy](https://github.com/ajw278/pokerpy)
+
+- Repository for Kaggle competitions and case studies for data science and machine learning [vikramlance/Kaggle](https://github.com/vikramlance/Kaggle)
+
+- A Python module to scrape several search engines (like Google, Yandex, Bing, Duckduckgo, Baidu and others) by using proxies (socks4/5, http proxy) and with many different IP's, including asynchronous networking support (very fast). http://incolumitas.com [NikolaiT/GoogleScraper](https://github.com/NikolaiT/GoogleScraper)
+
+- ScraperWiki Python library for scraping and saving data https://scraperwiki.com [scraperwiki/scraperwiki-python](https://github.com/scraperwiki/scraperwiki-python)
+
+- Python package for scraping recipes data [hhursev/recipe-scraper](https://github.com/hhursev/recipe-scraper)
+
+- Python Open Data Scrapers [tulsawebdevs/python-scrapers](https://github.com/tulsawebdevs/python-scrapers)
+
+- Various Python scripts to scrape sites that store data about you. [iandees/social_scrapers](https://github.com/iandees/social_scrapers)
+
+
 ## Tutorials/Notes
 
 - Content for Udacity's Machine Learning curriculum [udacity/machine-learning](https://github.com/udacity/machine-learning)
@@ -95,6 +156,12 @@ A curated list of amazing Machine Learning Git Repos, Articles, Videos etc.,
 - Project solutions to Udacity's Machine Learning Nanodegree [Edderic/udacity-machine-learning-nanodegree](https://github.com/Edderic/udacity-machine-learning-nanodegree)
 
 - Machine learning/artificial intelligence notes [frnsys/ai_notes](https://github.com/frnsys/ai_notes)
+
+- Homeworks for Machine Learning Course [Pinafore/ml-hw](https://github.com/Pinafore/ml-hw)
+
+- Lecture notes and code for Machine Learning practical course on CMC MSU [esokolov/ml-course-msu](https://github.com/esokolov/ml-course-msu)
+
+- Code and IPython notebooks solved, from Udacity's Machine Learning Nanodegree [mtasende/Machine-Learning-Nanodegree](https://github.com/mtasende/Machine-Learning-Nanodegree)
 
 
 
@@ -113,5 +180,6 @@ A curated list of amazing Machine Learning Git Repos, Articles, Videos etc.,
 
 - :octocat: Machine Learning for Cyber Security [jivoi/awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 
--
+- A curated list of R tutorials for Data Science, NLP and Machine Learning [ujjwalkarn/DataScienceR](https://github.com/ujjwalkarn/DataScienceR)
 
+-
