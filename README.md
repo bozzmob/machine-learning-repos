@@ -144,6 +144,22 @@ A curated list of amazing Machine Learning Git Repos, Articles, Videos etc.,
 
 - Various Python scripts to scrape sites that store data about you. [iandees/social_scrapers](https://github.com/iandees/social_scrapers)
 
+- Python scraper for espn.com domain that collects game data and writes to csv [rajenurprezi/espn_nba_scraper](https://github.com/rajenurprezi/espn_nba_scraper)
+
+- Python based web scraper API for NHL game data [robhowley/nhlscrapi](https://github.com/robhowley/nhlscrapi)
+
+- Python-driven web crawler and scraper. Uses BeautifulSoup to gather all URLs from a target page, and initiates a crawl from a start URL, considering Whitelist/Blacklist criteria that are populated in crawl.py [arbuckle/python_crawler](https://github.com/arbuckle/python_crawler)
+
+- Google PlayStore Scraper with Python + Scrapy[s101d1/PlayStoreScrapy](https://github.com/s101d1/PlayStoreScrapy)
+
+- A complete and versatile web scraper.[ruipgil/scraperjs](https://github.com/ruipgil/scraperjs)
+
+- Web scraper for NodeJS [rchipka/node-osmosis](https://github.com/rchipka/node-osmosis)
+
+- 🔮 A Node.js scraper for humans. http://ionicabizau.net/blog/30-how-to-write-a-web-scraper-in-node-js [IonicaBizau/scrape-it](https://github.com/IonicaBizau/scrape-it)
+
+- Data scraper for Facebook Pages, and also code accompanying the blog post How to Scrape Data From Facebook Page Posts for Statistical Analysis [minimaxir/facebook-page-post-scraper](https://github.com/minimaxir/facebook-page-post-scraper)
+
 
 ## Tutorials/Notes
 
@@ -181,5 +197,3 @@ A curated list of amazing Machine Learning Git Repos, Articles, Videos etc.,
 - :octocat: Machine Learning for Cyber Security [jivoi/awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 
 - A curated list of R tutorials for Data Science, NLP and Machine Learning [ujjwalkarn/DataScienceR](https://github.com/ujjwalkarn/DataScienceR)
-
--
