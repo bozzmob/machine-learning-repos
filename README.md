@@ -179,7 +179,7 @@ A curated list of amazing Machine Learning Git Repos, Articles, Videos etc.,
 
 - Code and IPython notebooks solved, from Udacity's Machine Learning Nanodegree [mtasende/Machine-Learning-Nanodegree](https://github.com/mtasende/Machine-Learning-Nanodegree)
 
-
+- In this project you will scrape as much data as you can get about the *actual* sightings of Pokemons. As it turns out, players all around the world started reporting sightings of Pokemons and are logging them into a central repository (i.e. a database). We want to get this data so we can train our machine learning models. You will of course nee…[PokemonGoers/PokeData](https://github.com/PokemonGoers/PokeData)
 
 ## Data Science & Analysis
 
