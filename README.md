@@ -1,4 +1,4 @@
-# machine-learning-repos
+# Machine Learning Repos, Articles, Videos
 A curated list of amazing Machine Learning Git Repos, Articles, Videos etc.,
 
 ## Git Repos
