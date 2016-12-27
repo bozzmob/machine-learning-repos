@@ -181,6 +181,20 @@ A curated list of amazing Machine Learning Git Repos, Articles, Videos etc.,
 
 - In this project you will scrape as much data as you can get about the *actual* sightings of Pokemons. As it turns out, players all around the world started reporting sightings of Pokemons and are logging them into a central repository (i.e. a database). We want to get this data so we can train our machine learning models. You will of course nee…[PokemonGoers/PokeData](https://github.com/PokemonGoers/PokeData)
 
+- Machine learning tools in JavaScript [mljs/ml](https://github.com/mljs/ml)
+
+- Automated machine learning for analytics & production http://auto-ml.readthedocs.io [ClimbsRocks/auto_ml](https://github.com/ClimbsRocks/auto_ml)
+
+- LDA topic modeling for node.js [primaryobjects/lda](https://github.com/primaryobjects/lda)
+
+- FANN (Fast Artificial Neural Network Library) bindings for Node.js [rlidwka/node-fann](https://github.com/rlidwka/node-fann)
+
+- Clustering algorithms implemented in Javascript for Node.js and the browser [emilbayes/clustering.js](https://github.com/emilbayes/clustering.js)
+
+- JavaScript agglomerative hierarchical clustering [http://harthur.github.io/clusterfck](http://harthur.github.io/clusterfck/)
+
+
+
 ## Data Science & Analysis
 
 - Content for Udacity's Data Analyst curriculum [udacity/data-analyst](https://github.com/udacity/data-analyst)
